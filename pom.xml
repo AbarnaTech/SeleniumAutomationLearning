@@ -36,6 +36,7 @@
 
                         <suiteXmlFiles>
                             <suiteXmlFile>testng_crossBrowser.xml</suiteXmlFile>
+				 <suiteXmlFile>testng_crossBrowser.xml</suiteXmlFile>
 							<!-- <suiteXmlFile>testng_crossBrowserParallel.xml</suiteXmlFile> -->
                         </suiteXmlFiles>
 
