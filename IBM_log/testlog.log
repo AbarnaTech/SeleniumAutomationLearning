@@ -1,0 +1,377 @@
+2022-12-05 01:22:17,854 - NOP Comm Application Module -INFO - launching application
+2022-12-05 01:22:17,864 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 01:22:23,708 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 01:22:23,908 - NOP Comm Application Module -INFO - clear the username field
+2022-12-05 01:22:23,908 - NOP Comm Application Module -WARN - clear the username field
+2022-12-05 01:22:23,908 - NOP Comm Application Module -ERROR - clear the username field
+2022-12-05 01:22:23,974 - NOP Comm Application Module -INFO - enter email id: admin@yourstore.com
+2022-12-05 01:22:24,099 - NOP Comm Application Module -INFO - clear the password field
+2022-12-05 01:22:24,169 - NOP Comm Application Module -INFO - enter password id: admin
+2022-12-05 01:22:24,246 - NOP Comm Application Module -INFO - Click on Login button
+2022-12-05 01:22:31,178 - NOP Comm Application Module -INFO - after sucessful login, application title: Dashboard / nopCommerce administration
+2022-12-05 01:22:35,193 - NOP Comm Application Module -INFO - Click on Customer Menu
+2022-12-05 01:22:35,294 - NOP Comm Application Module -INFO - Click on Customer Menu items
+2022-12-05 01:22:49,463 - NOP Comm Application Module -INFO - after click on Customer menu item, application title: Customers / nopCommerce administration
+2022-12-05 01:22:53,478 - NOP Comm Application Module -INFO - Click on Logout
+2022-12-05 01:23:04,018 - NOP Comm Application Module -INFO - Closing application
+2022-12-05 02:12:52,209 - NOP Comm Application Module -INFO - launching application
+2022-12-05 02:12:52,232 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:12:56,860 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:13:00,048 - NOP Comm Application Module -INFO - before login application title should beYour store. Login
+2022-12-05 02:13:00,062 - NOP Comm Application Module -INFO - enter userName
+2022-12-05 02:13:00,237 - NOP Comm Application Module -INFO - enter password
+2022-12-05 02:13:00,394 - NOP Comm Application Module -INFO - click on radio checkbox
+2022-12-05 02:13:00,459 - NOP Comm Application Module -INFO - click on login button
+2022-12-05 02:13:06,800 - NOP Comm Application Module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-05 02:13:12,020 - NOP Comm Application Module -INFO - closing application
+2022-12-05 02:16:22,873 - NOP Comm Application Module -INFO - launching application
+2022-12-05 02:16:22,880 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:16:27,427 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:16:30,583 - NOP Comm Application Module -INFO - before login application title should beYour store. Login
+2022-12-05 02:16:30,601 - NOP Comm Application Module -INFO - enter userName
+2022-12-05 02:16:30,771 - NOP Comm Application Module -INFO - enter password
+2022-12-05 02:16:30,927 - NOP Comm Application Module -INFO - click on radio checkbox
+2022-12-05 02:16:30,992 - NOP Comm Application Module -INFO - click on login button
+2022-12-05 02:16:38,083 - NOP Comm Application Module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-05 02:16:43,286 - NOP Comm Application Module -INFO - closing application
+2022-12-05 02:27:13,297 - NOP Comm Application Module -INFO - launching application
+2022-12-05 02:27:13,312 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:27:18,035 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:27:21,199 - NOP Comm Application Module -INFO - before login application title should beYour store. Login
+2022-12-05 02:27:21,211 - NOP Comm Application Module -INFO - enter userName
+2022-12-05 02:27:21,379 - NOP Comm Application Module -INFO - enter password
+2022-12-05 02:27:21,511 - NOP Comm Application Module -INFO - click on radio checkbox
+2022-12-05 02:27:21,597 - NOP Comm Application Module -INFO - click on login button
+2022-12-05 02:27:28,102 - NOP Comm Application Module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-05 02:27:37,405 - NOP Comm Application Module -INFO - closing application
+2022-12-05 02:28:29,509 - NOP Comm Application Module -INFO - launching application
+2022-12-05 02:28:29,515 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:28:34,007 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:28:37,166 - NOP Comm Application Module -INFO - before login application title should beYour store. Login
+2022-12-05 02:28:37,172 - NOP Comm Application Module -INFO - enter userName
+2022-12-05 02:28:37,365 - NOP Comm Application Module -INFO - enter password
+2022-12-05 02:28:37,523 - NOP Comm Application Module -INFO - click on radio checkbox
+2022-12-05 02:28:37,587 - NOP Comm Application Module -INFO - click on login button
+2022-12-05 02:28:43,398 - NOP Comm Application Module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-05 02:28:52,765 - NOP Comm Application Module -INFO - closing application
+2022-12-05 02:29:45,847 - NOP Comm Application Module -INFO - launching application
+2022-12-05 02:29:45,852 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:29:50,454 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:29:53,607 - NOP Comm Application Module -INFO - before login application title should beYour store. Login
+2022-12-05 02:29:53,622 - NOP Comm Application Module -INFO - enter userName
+2022-12-05 02:29:53,792 - NOP Comm Application Module -INFO - enter password
+2022-12-05 02:29:53,945 - NOP Comm Application Module -INFO - click on radio checkbox
+2022-12-05 02:29:54,014 - NOP Comm Application Module -INFO - click on login button
+2022-12-05 02:30:00,480 - NOP Comm Application Module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-05 02:30:09,757 - NOP Comm Application Module -INFO - closing application
+2022-12-05 02:31:59,701 - NOP Comm Application Module -INFO - launching application
+2022-12-05 02:31:59,709 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:32:04,337 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:32:07,514 - NOP Comm Application Module -INFO - before login application title should beYour store. Login
+2022-12-05 02:32:07,529 - NOP Comm Application Module -INFO - enter userName
+2022-12-05 02:32:07,718 - NOP Comm Application Module -INFO - enter password
+2022-12-05 02:32:07,857 - NOP Comm Application Module -INFO - click on radio checkbox
+2022-12-05 02:32:07,921 - NOP Comm Application Module -INFO - click on login button
+2022-12-05 02:32:24,195 - NOP Comm Application Module -INFO - closing application
+2022-12-05 02:33:44,254 - NOP Comm Application Module -INFO - launching application
+2022-12-05 02:33:44,259 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:33:48,173 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:33:51,345 - NOP Comm Application Module -INFO - before login application title should beYour store. Login
+2022-12-05 02:33:51,359 - NOP Comm Application Module -INFO - enter userName
+2022-12-05 02:33:51,527 - NOP Comm Application Module -INFO - enter password
+2022-12-05 02:33:51,670 - NOP Comm Application Module -INFO - click on radio checkbox
+2022-12-05 02:33:51,741 - NOP Comm Application Module -INFO - click on login button
+2022-12-05 02:33:57,568 - NOP Comm Application Module -INFO - clicking Customer menu
+2022-12-05 02:34:06,820 - NOP Comm Application Module -INFO - closing application
+2022-12-05 02:35:34,018 - NOP Comm Application Module -INFO - launching application
+2022-12-05 02:35:34,023 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:35:38,767 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:35:41,954 - NOP Comm Application Module -INFO - before login application title should beYour store. Login
+2022-12-05 02:35:41,966 - NOP Comm Application Module -INFO - enter userName
+2022-12-05 02:35:42,141 - NOP Comm Application Module -INFO - enter password
+2022-12-05 02:35:42,284 - NOP Comm Application Module -INFO - click on radio checkbox
+2022-12-05 02:35:42,360 - NOP Comm Application Module -INFO - click on login button
+2022-12-05 02:35:48,679 - NOP Comm Application Module -INFO - clicking Customer menu
+2022-12-05 02:36:02,431 - NOP Comm Application Module -INFO - closing application
+2022-12-05 02:36:40,600 - NOP Comm Application Module -INFO - launching application
+2022-12-05 02:36:40,609 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:36:45,107 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:36:48,253 - NOP Comm Application Module -INFO - before login application title should beYour store. Login
+2022-12-05 02:36:48,266 - NOP Comm Application Module -INFO - enter userName
+2022-12-05 02:36:48,429 - NOP Comm Application Module -INFO - enter password
+2022-12-05 02:36:48,579 - NOP Comm Application Module -INFO - click on radio checkbox
+2022-12-05 02:36:48,647 - NOP Comm Application Module -INFO - click on login button
+2022-12-05 02:36:54,967 - NOP Comm Application Module -INFO - clicking Customer menu
+2022-12-05 02:37:16,251 - NOP Comm Application Module -INFO - closing application
+2022-12-06 02:24:03,528 - NOP Comm Application Module -INFO - launching application
+2022-12-06 02:24:03,546 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-06 02:24:08,233 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-06 02:24:11,407 - NOP Comm Application Module -INFO - before login application title should beYour store. Login
+2022-12-06 02:24:11,427 - NOP Comm Application Module -INFO - enter userName
+2022-12-06 02:24:11,644 - NOP Comm Application Module -INFO - enter password
+2022-12-06 02:24:11,829 - NOP Comm Application Module -INFO - click on radio checkbox
+2022-12-06 02:24:11,912 - NOP Comm Application Module -INFO - click on login button
+2022-12-06 02:24:18,231 - NOP Comm Application Module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-06 02:24:23,540 - NOP Comm Application Module -INFO - closing application
+2022-12-06 02:30:59,444 - NOP Comm Application Module -INFO - launching application
+2022-12-06 02:30:59,461 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-06 02:31:04,284 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-06 02:31:07,469 - NOP Comm Application Module -INFO - before login application title should beYour store. Login
+2022-12-06 02:31:07,484 - NOP Comm Application Module -INFO - enter userName
+2022-12-06 02:31:07,669 - NOP Comm Application Module -INFO - enter password
+2022-12-06 02:31:07,838 - NOP Comm Application Module -INFO - click on radio checkbox
+2022-12-06 02:31:07,907 - NOP Comm Application Module -INFO - click on login button
+2022-12-06 02:31:13,563 - NOP Comm Application Module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-06 02:31:18,819 - NOP Comm Application Module -INFO - closing application
+2022-12-06 02:35:05,880 - NOP Comm Application Module -INFO - launching application
+2022-12-06 02:35:05,895 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-06 02:35:10,763 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-06 02:35:13,947 - NOP Comm Application Module -INFO - before login application title should beYour store. Login
+2022-12-06 02:35:13,963 - NOP Comm Application Module -INFO - enter userName
+2022-12-06 02:35:14,156 - NOP Comm Application Module -INFO - enter password
+2022-12-06 02:35:14,323 - NOP Comm Application Module -INFO - click on radio checkbox
+2022-12-06 02:35:14,403 - NOP Comm Application Module -INFO - click on login button
+2022-12-06 02:35:20,690 - NOP Comm Application Module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-06 02:35:31,028 - NOP Comm Application Module -INFO - closing application
+2022-12-06 02:37:07,074 - NOP Comm Application Module -INFO - launching application
+2022-12-06 02:37:07,080 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-06 02:37:12,176 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-06 02:37:15,389 - NOP Comm Application Module -INFO - before login application title should beYour store. Login
+2022-12-06 02:37:15,406 - NOP Comm Application Module -INFO - enter userName
+2022-12-06 02:37:15,624 - NOP Comm Application Module -INFO - enter password
+2022-12-06 02:37:15,800 - NOP Comm Application Module -INFO - click on radio checkbox
+2022-12-06 02:37:15,882 - NOP Comm Application Module -INFO - click on login button
+2022-12-06 02:37:22,706 - NOP Comm Application Module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-06 02:37:48,933 - NOP Comm Application Module -INFO - closing application
+2022-12-07 01:49:17,865 - NOP Comm Application Module -INFO - launching application
+2022-12-07 01:49:17,888 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-07 01:49:22,972 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-07 01:49:26,132 - NOP Comm Application Module -INFO - enter email details: Rupal@gmail.com
+2022-12-07 01:49:36,480 - NOP Comm Application Module -INFO - enter email details: Anusha1@gmail.com
+2022-12-07 01:49:46,183 - NOP Comm Application Module -INFO - enter email details: Pratyusha1@google.com
+2022-12-07 01:49:56,167 - NOP Comm Application Module -INFO - enter email details: Surya1@yahoo.com
+2022-12-07 01:50:08,025 - NOP Comm Application Module -INFO - closing application
+2022-12-08 02:10:25,759 - NOP Comm Application Module -INFO - launching application
+2022-12-08 02:10:25,774 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:10:32,090 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:10:32,438 - NOP Comm Application Module -INFO - clear the username field
+2022-12-08 02:10:32,455 - NOP Comm Application Module -WARN - clear the username field
+2022-12-08 02:10:32,456 - NOP Comm Application Module -ERROR - clear the username field
+2022-12-08 02:10:32,575 - NOP Comm Application Module -INFO - enter email id: admin@yourstore.com
+2022-12-08 02:10:32,678 - NOP Comm Application Module -INFO - clear the password field
+2022-12-08 02:10:32,748 - NOP Comm Application Module -INFO - enter password id: admin
+2022-12-08 02:10:32,817 - NOP Comm Application Module -INFO - Click on Login button
+2022-12-08 02:10:39,745 - NOP Comm Application Module -INFO - after sucessful login, application title: Dashboard / nopCommerce administration
+2022-12-08 02:10:43,748 - NOP Comm Application Module -INFO - Click on Customer Menu
+2022-12-08 02:10:43,899 - NOP Comm Application Module -INFO - Click on Customer Menu items
+2022-12-08 02:10:53,174 - NOP Comm Application Module -INFO - after click on Customer menu item, application title: Customers / nopCommerce administration
+2022-12-08 02:10:57,189 - NOP Comm Application Module -INFO - Click on Logout
+2022-12-08 02:11:23,698 - NOP Comm Application Module -INFO - Closing application
+2022-12-08 02:11:23,729 - NOP Comm Application Module -INFO - launching application
+2022-12-08 02:11:23,730 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:11:26,554 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:11:26,776 - NOP Comm Application Module -INFO - clear the username field
+2022-12-08 02:11:26,776 - NOP Comm Application Module -WARN - clear the username field
+2022-12-08 02:11:26,778 - NOP Comm Application Module -ERROR - clear the username field
+2022-12-08 02:11:26,847 - NOP Comm Application Module -INFO - enter email id: admin@yourstore.com
+2022-12-08 02:11:26,945 - NOP Comm Application Module -INFO - clear the password field
+2022-12-08 02:11:27,010 - NOP Comm Application Module -INFO - enter password id: admin
+2022-12-08 02:11:27,080 - NOP Comm Application Module -INFO - Click on Login button
+2022-12-08 02:11:34,854 - NOP Comm Application Module -INFO - after sucessful login, application title: Dashboard / nopCommerce administration
+2022-12-08 02:11:38,875 - NOP Comm Application Module -INFO - Click on Customer Menu
+2022-12-08 02:11:38,997 - NOP Comm Application Module -INFO - Click on Customer Menu items
+2022-12-08 02:11:48,212 - NOP Comm Application Module -INFO - after click on Customer menu item, application title: Customers / nopCommerce administration
+2022-12-08 02:11:52,227 - NOP Comm Application Module -INFO - Click on Logout
+2022-12-08 02:12:02,574 - NOP Comm Application Module -INFO - Closing application
+2022-12-08 02:15:08,100 - NOP Comm Application Module -INFO - launching application
+2022-12-08 02:15:08,107 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:15:15,781 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:15:15,926 - NOP Comm Application Module -INFO - clear the username field
+2022-12-08 02:15:15,930 - NOP Comm Application Module -WARN - clear the username field
+2022-12-08 02:15:15,936 - NOP Comm Application Module -ERROR - clear the username field
+2022-12-08 02:15:16,011 - NOP Comm Application Module -INFO - enter email id: admin@yourstore.com
+2022-12-08 02:15:16,098 - NOP Comm Application Module -INFO - clear the password field
+2022-12-08 02:15:16,157 - NOP Comm Application Module -INFO - enter password id: admin
+2022-12-08 02:15:16,220 - NOP Comm Application Module -INFO - Click on Login button
+2022-12-08 02:15:23,689 - NOP Comm Application Module -INFO - after sucessful login, application title: Dashboard / nopCommerce administration
+2022-12-08 02:15:27,706 - NOP Comm Application Module -INFO - Click on Customer Menu
+2022-12-08 02:15:27,817 - NOP Comm Application Module -INFO - Click on Customer Menu items
+2022-12-08 02:15:37,900 - NOP Comm Application Module -INFO - after click on Customer menu item, application title: Customers / nopCommerce administration
+2022-12-08 02:15:41,906 - NOP Comm Application Module -INFO - Click on Logout
+2022-12-08 02:16:08,532 - NOP Comm Application Module -INFO - Closing application
+2022-12-08 02:16:08,562 - NOP Comm Application Module -INFO - launching application
+2022-12-08 02:16:08,563 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:16:11,084 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:16:11,215 - NOP Comm Application Module -INFO - clear the username field
+2022-12-08 02:16:11,216 - NOP Comm Application Module -WARN - clear the username field
+2022-12-08 02:16:11,222 - NOP Comm Application Module -ERROR - clear the username field
+2022-12-08 02:16:11,284 - NOP Comm Application Module -INFO - enter email id: admin@yourstore.com
+2022-12-08 02:16:11,363 - NOP Comm Application Module -INFO - clear the password field
+2022-12-08 02:16:11,425 - NOP Comm Application Module -INFO - enter password id: admin
+2022-12-08 02:16:11,530 - NOP Comm Application Module -INFO - Click on Login button
+2022-12-08 02:16:19,202 - NOP Comm Application Module -INFO - after sucessful login, application title: Dashboard / nopCommerce administration
+2022-12-08 02:16:23,216 - NOP Comm Application Module -INFO - Click on Customer Menu
+2022-12-08 02:16:23,301 - NOP Comm Application Module -INFO - Click on Customer Menu items
+2022-12-08 02:16:37,727 - NOP Comm Application Module -INFO - after click on Customer menu item, application title: Customers / nopCommerce administration
+2022-12-08 02:16:41,740 - NOP Comm Application Module -INFO - Click on Logout
+2022-12-08 02:17:08,286 - NOP Comm Application Module -INFO - Closing application
+2022-12-08 02:25:25,755 - NOP Comm Application Module -INFO - launching application
+2022-12-08 02:25:25,777 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:25:30,178 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:25:30,375 - NOP Comm Application Module -INFO - clear the username field
+2022-12-08 02:25:30,375 - NOP Comm Application Module -WARN - clear the username field
+2022-12-08 02:25:30,377 - NOP Comm Application Module -ERROR - clear the username field
+2022-12-08 02:25:30,456 - NOP Comm Application Module -INFO - enter email id: admin@yourstore.com
+2022-12-08 02:25:30,550 - NOP Comm Application Module -INFO - clear the password field
+2022-12-08 02:25:30,666 - NOP Comm Application Module -INFO - enter password id: admin
+2022-12-08 02:25:30,793 - NOP Comm Application Module -INFO - Click on Login button
+2022-12-08 02:25:38,238 - NOP Comm Application Module -INFO - after sucessful login, application title: Dashboard / nopCommerce administration
+2022-12-08 02:25:42,247 - NOP Comm Application Module -INFO - Click on Customer Menu
+2022-12-08 02:25:42,352 - NOP Comm Application Module -INFO - Click on Customer Menu items
+2022-12-08 02:25:51,678 - NOP Comm Application Module -INFO - after click on Customer menu item, application title: Customers / nopCommerce administration
+2022-12-08 02:25:55,678 - NOP Comm Application Module -INFO - Click on Logout
+2022-12-08 02:26:05,932 - NOP Comm Application Module -INFO - Closing application
+2022-12-08 02:26:05,970 - NOP Comm Application Module -INFO - launching application
+2022-12-08 02:26:05,971 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:26:08,103 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:26:08,230 - NOP Comm Application Module -INFO - clear the username field
+2022-12-08 02:26:08,230 - NOP Comm Application Module -WARN - clear the username field
+2022-12-08 02:26:08,231 - NOP Comm Application Module -ERROR - clear the username field
+2022-12-08 02:26:08,301 - NOP Comm Application Module -INFO - enter email id: admin@yourstore.com
+2022-12-08 02:26:08,382 - NOP Comm Application Module -INFO - clear the password field
+2022-12-08 02:26:08,441 - NOP Comm Application Module -INFO - enter password id: admin
+2022-12-08 02:26:08,502 - NOP Comm Application Module -INFO - Click on Login button
+2022-12-08 02:26:15,785 - NOP Comm Application Module -INFO - after sucessful login, application title: Dashboard / nopCommerce administration
+2022-12-08 02:26:19,791 - NOP Comm Application Module -INFO - Click on Customer Menu
+2022-12-08 02:26:19,927 - NOP Comm Application Module -INFO - Click on Customer Menu items
+2022-12-08 02:26:32,988 - NOP Comm Application Module -INFO - after click on Customer menu item, application title: Customers / nopCommerce administration
+2022-12-08 02:26:36,999 - NOP Comm Application Module -INFO - Click on Logout
+2022-12-08 02:26:47,288 - NOP Comm Application Module -INFO - Closing application
+2022-12-08 02:42:44,455 - NOP Comm Application Module -INFO - launching application
+2022-12-08 02:42:44,472 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:42:50,232 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:42:50,438 - NOP Comm Application Module -INFO - clear the username field
+2022-12-08 02:42:50,439 - NOP Comm Application Module -WARN - clear the username field
+2022-12-08 02:42:50,440 - NOP Comm Application Module -ERROR - clear the username field
+2022-12-08 02:42:50,540 - NOP Comm Application Module -INFO - enter email id: admin@yourstore.com
+2022-12-08 02:42:50,653 - NOP Comm Application Module -INFO - clear the password field
+2022-12-08 02:42:50,728 - NOP Comm Application Module -INFO - enter password id: admin
+2022-12-08 02:42:50,797 - NOP Comm Application Module -INFO - Click on Login button
+2022-12-08 02:42:58,101 - NOP Comm Application Module -INFO - after sucessful login, application title: Dashboard / nopCommerce administration
+2022-12-08 02:43:02,110 - NOP Comm Application Module -INFO - Click on Customer Menu
+2022-12-08 02:43:02,260 - NOP Comm Application Module -INFO - Click on Customer Menu items
+2022-12-08 02:43:11,812 - NOP Comm Application Module -INFO - after click on Customer menu item, application title: Customers / nopCommerce administration
+2022-12-08 02:43:15,813 - NOP Comm Application Module -INFO - Click on Logout
+2022-12-08 02:43:42,343 - NOP Comm Application Module -INFO - Closing application
+2022-12-08 02:43:42,380 - NOP Comm Application Module -INFO - launching application
+2022-12-08 02:43:42,380 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:43:44,591 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:43:44,738 - NOP Comm Application Module -INFO - clear the username field
+2022-12-08 02:43:44,739 - NOP Comm Application Module -WARN - clear the username field
+2022-12-08 02:43:44,744 - NOP Comm Application Module -ERROR - clear the username field
+2022-12-08 02:43:44,803 - NOP Comm Application Module -INFO - enter email id: admin@yourstore.com
+2022-12-08 02:43:44,882 - NOP Comm Application Module -INFO - clear the password field
+2022-12-08 02:43:44,939 - NOP Comm Application Module -INFO - enter password id: admin
+2022-12-08 02:43:45,004 - NOP Comm Application Module -INFO - Click on Login button
+2022-12-08 02:43:52,858 - NOP Comm Application Module -INFO - after sucessful login, application title: Dashboard / nopCommerce administration
+2022-12-08 02:43:56,871 - NOP Comm Application Module -INFO - Click on Customer Menu
+2022-12-08 02:43:57,012 - NOP Comm Application Module -INFO - Click on Customer Menu items
+2022-12-08 02:44:06,586 - NOP Comm Application Module -INFO - after click on Customer menu item, application title: Customers / nopCommerce administration
+2022-12-08 02:44:10,588 - NOP Comm Application Module -INFO - Click on Logout
+2022-12-08 02:44:36,992 - NOP Comm Application Module -INFO - Closing application
+2022-12-08 03:00:22,190 - NOP Comm Application Module -INFO - launching application
+2022-12-08 03:00:22,205 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 03:00:26,299 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 03:00:26,484 - NOP Comm Application Module -INFO - clear the username field
+2022-12-08 03:00:26,485 - NOP Comm Application Module -WARN - clear the username field
+2022-12-08 03:00:26,486 - NOP Comm Application Module -ERROR - clear the username field
+2022-12-08 03:00:26,567 - NOP Comm Application Module -INFO - enter email id: admin@yourstore.com
+2022-12-08 03:00:26,650 - NOP Comm Application Module -INFO - clear the password field
+2022-12-08 03:00:26,707 - NOP Comm Application Module -INFO - enter password id: admin
+2022-12-08 03:00:26,765 - NOP Comm Application Module -INFO - Click on Login button
+2022-12-08 03:00:33,862 - NOP Comm Application Module -INFO - after sucessful login, application title: Dashboard / nopCommerce administration
+2022-12-08 03:00:37,867 - NOP Comm Application Module -INFO - Click on Customer Menu
+2022-12-08 03:00:38,003 - NOP Comm Application Module -INFO - Click on Customer Menu items
+2022-12-08 03:00:47,790 - NOP Comm Application Module -INFO - after click on Customer menu item, application title: Customers / nopCommerce administration
+2022-12-08 03:00:51,802 - NOP Comm Application Module -INFO - Click on Logout
+2022-12-08 03:01:18,342 - NOP Comm Application Module -INFO - Closing application
+2022-12-08 03:01:18,373 - NOP Comm Application Module -INFO - launching application
+2022-12-08 03:01:18,374 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 03:01:20,545 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 03:01:20,673 - NOP Comm Application Module -INFO - clear the username field
+2022-12-08 03:01:20,674 - NOP Comm Application Module -WARN - clear the username field
+2022-12-08 03:01:20,685 - NOP Comm Application Module -ERROR - clear the username field
+2022-12-08 03:01:20,753 - NOP Comm Application Module -INFO - enter email id: admin@yourstore.com
+2022-12-08 03:01:20,830 - NOP Comm Application Module -INFO - clear the password field
+2022-12-08 03:01:20,889 - NOP Comm Application Module -INFO - enter password id: admin
+2022-12-08 03:01:20,944 - NOP Comm Application Module -INFO - Click on Login button
+2022-12-08 03:01:27,960 - NOP Comm Application Module -INFO - after sucessful login, application title: Dashboard / nopCommerce administration
+2022-12-08 03:01:31,968 - NOP Comm Application Module -INFO - Click on Customer Menu
+2022-12-08 03:01:32,068 - NOP Comm Application Module -INFO - Click on Customer Menu items
+2022-12-08 03:01:41,347 - NOP Comm Application Module -INFO - after click on Customer menu item, application title: Customers / nopCommerce administration
+2022-12-08 03:01:45,358 - NOP Comm Application Module -INFO - Click on Logout
+2022-12-08 03:02:11,784 - NOP Comm Application Module -INFO - Closing application
+2022-12-08 03:03:09,818 - NOP Comm Application Module -INFO - launching application
+2022-12-08 03:03:09,828 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 03:03:13,734 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 03:03:13,907 - NOP Comm Application Module -INFO - clear the username field
+2022-12-08 03:03:13,907 - NOP Comm Application Module -WARN - clear the username field
+2022-12-08 03:03:13,909 - NOP Comm Application Module -ERROR - clear the username field
+2022-12-08 03:03:13,988 - NOP Comm Application Module -INFO - enter email id: admin@yourstore.com
+2022-12-08 03:03:14,071 - NOP Comm Application Module -INFO - clear the password field
+2022-12-08 03:03:14,131 - NOP Comm Application Module -INFO - enter password id: admin
+2022-12-08 03:03:14,188 - NOP Comm Application Module -INFO - Click on Login button
+2022-12-08 03:03:21,220 - NOP Comm Application Module -INFO - after sucessful login, application title: Dashboard / nopCommerce administration
+2022-12-08 03:03:25,222 - NOP Comm Application Module -INFO - Click on Customer Menu
+2022-12-08 03:03:25,349 - NOP Comm Application Module -INFO - Click on Customer Menu items
+2022-12-08 03:03:34,917 - NOP Comm Application Module -INFO - after click on Customer menu item, application title: Customers / nopCommerce administration
+2022-12-08 03:03:38,932 - NOP Comm Application Module -INFO - Click on Logout
+2022-12-08 03:04:05,349 - NOP Comm Application Module -INFO - Closing application
+2022-12-08 03:04:05,372 - NOP Comm Application Module -INFO - launching application
+2022-12-08 03:04:05,373 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 03:04:07,560 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 03:04:07,679 - NOP Comm Application Module -INFO - clear the username field
+2022-12-08 03:04:07,680 - NOP Comm Application Module -WARN - clear the username field
+2022-12-08 03:04:07,692 - NOP Comm Application Module -ERROR - clear the username field
+2022-12-08 03:04:07,757 - NOP Comm Application Module -INFO - enter email id: admin@yourstore.com
+2022-12-08 03:04:07,830 - NOP Comm Application Module -INFO - clear the password field
+2022-12-08 03:04:07,888 - NOP Comm Application Module -INFO - enter password id: admin
+2022-12-08 03:04:07,945 - NOP Comm Application Module -INFO - Click on Login button
+2022-12-08 03:04:15,076 - NOP Comm Application Module -INFO - after sucessful login, application title: Dashboard / nopCommerce administration
+2022-12-08 03:04:19,083 - NOP Comm Application Module -INFO - Click on Customer Menu
+2022-12-08 03:04:19,207 - NOP Comm Application Module -INFO - Click on Customer Menu items
+2022-12-08 03:04:28,522 - NOP Comm Application Module -INFO - after click on Customer menu item, application title: Customers / nopCommerce administration
+2022-12-08 03:04:32,523 - NOP Comm Application Module -INFO - Click on Logout
+2022-12-08 03:04:59,004 - NOP Comm Application Module -INFO - Closing application
+2022-12-08 03:06:08,645 - NOP Comm Application Module -INFO - launching application
+2022-12-08 03:06:08,655 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 03:06:12,766 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 03:06:12,939 - NOP Comm Application Module -INFO - clear the username field
+2022-12-08 03:06:12,940 - NOP Comm Application Module -WARN - clear the username field
+2022-12-08 03:06:12,942 - NOP Comm Application Module -ERROR - clear the username field
+2022-12-08 03:06:13,022 - NOP Comm Application Module -INFO - enter email id: admin@yourstore.com
+2022-12-08 03:06:13,105 - NOP Comm Application Module -INFO - clear the password field
+2022-12-08 03:06:13,165 - NOP Comm Application Module -INFO - enter password id: admin
+2022-12-08 03:06:13,228 - NOP Comm Application Module -INFO - Click on Login button
+2022-12-08 03:06:21,889 - NOP Comm Application Module -INFO - after sucessful login, application title: Dashboard / nopCommerce administration
+2022-12-08 03:06:25,895 - NOP Comm Application Module -INFO - Click on Customer Menu
+2022-12-08 03:06:25,995 - NOP Comm Application Module -INFO - Click on Customer Menu items
+2022-12-08 03:06:35,528 - NOP Comm Application Module -INFO - after click on Customer menu item, application title: Customers / nopCommerce administration
+2022-12-08 03:06:39,537 - NOP Comm Application Module -INFO - Click on Logout
+2022-12-08 03:07:06,101 - NOP Comm Application Module -INFO - Closing application
+2022-12-08 03:07:06,127 - NOP Comm Application Module -INFO - launching application
+2022-12-08 03:07:06,128 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 03:07:08,258 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 03:07:08,401 - NOP Comm Application Module -INFO - clear the username field
+2022-12-08 03:07:08,402 - NOP Comm Application Module -WARN - clear the username field
+2022-12-08 03:07:08,415 - NOP Comm Application Module -ERROR - clear the username field
+2022-12-08 03:07:08,478 - NOP Comm Application Module -INFO - enter email id: admin@yourstore.com
+2022-12-08 03:07:08,554 - NOP Comm Application Module -INFO - clear the password field
+2022-12-08 03:07:08,612 - NOP Comm Application Module -INFO - enter password id: admin
+2022-12-08 03:07:08,670 - NOP Comm Application Module -INFO - Click on Login button
+2022-12-08 03:07:15,845 - NOP Comm Application Module -INFO - after sucessful login, application title: Dashboard / nopCommerce administration
+2022-12-08 03:07:19,886 - NOP Comm Application Module -INFO - Click on Customer Menu
+2022-12-08 03:07:19,987 - NOP Comm Application Module -INFO - Click on Customer Menu items
+2022-12-08 03:07:29,243 - NOP Comm Application Module -INFO - after click on Customer menu item, application title: Customers / nopCommerce administration
+2022-12-08 03:07:33,249 - NOP Comm Application Module -INFO - Click on Logout
+2022-12-08 03:07:43,605 - NOP Comm Application Module -INFO - Closing application
